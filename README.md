@@ -4,10 +4,9 @@ This project analyzes the IMDb 5000 Movies dataset to uncover patterns behind hi
 
 ---
 
-## 📂 Repository Structure
 
-📂 Repository Structure
-text
+## 📂 Repository Structure
+```
 imdb-movie-rating-analysis/
 ├── README.md
 ├── notebook.ipynb
@@ -20,9 +19,8 @@ imdb-movie-rating-analysis/
     ├── revenue_vs_rating.png
     ├── top_directors.png
     └── correlations.png
-
-
 ---
+
 
 ## 📊 Dataset
 
@@ -75,41 +73,32 @@ Available in the `images/` folder:
 
 ---
 
+```
+
 ## ▶️ How to Run
 
-1. Clone the repository:
-   ```bash
+1. **Clone the repository:**
+```bash
    git clone https://github.com/anisahmed01/imdb-movie-rating-analysis
+```
+
+2. **Install dependencies:**
+```bash
+   pip install -r requirements.txt
+```
+
+3. **Open the notebook:**
+```bash
+   jupyter notebook notebook.ipynb
+```
+
+4. **Run all cells** to reproduce the analysis.
 
 
- 2. Install dependencies:
-    ```bash
-pip install -r requirements.txt
 
 
- 3. Open the notebook:
-    ```bash
-jupyter notebook notebook.ipynb
-
-Run all cells to reproduce the analysis.
-
-
-▶️ How to Run
-Clone the repository:
-
-text
-git clone https://github.com/anisahmed01/imdb-movie-rating-analysis
-Install dependencies:
-
-text
-pip install -r requirements.txt
-Open the notebook:
-
-text
-jupyter notebook notebook.ipynb
-
-📘 Project Summary
-
+#### 📘 Project Summary
+```
 This analysis shows how financial attributes, genres, and creative contributors influence IMDb ratings. Through visual exploration and statistical comparisons, it identifies which directors, movie categories, and production patterns are associated with stronger viewer ratings across nearly a century of cinema.
 
 ---
