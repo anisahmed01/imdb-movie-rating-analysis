@@ -6,6 +6,8 @@ This project analyzes the IMDb 5000 Movies dataset to uncover patterns behind hi
 
 ## 📂 Repository Structure
 
+📂 Repository Structure
+text
 imdb-movie-rating-analysis/
 ├── README.md
 ├── notebook.ipynb
@@ -91,6 +93,20 @@ jupyter notebook notebook.ipynb
 
 Run all cells to reproduce the analysis.
 
+
+▶️ How to Run
+Clone the repository:
+
+text
+git clone https://github.com/anisahmed01/imdb-movie-rating-analysis
+Install dependencies:
+
+text
+pip install -r requirements.txt
+Open the notebook:
+
+text
+jupyter notebook notebook.ipynb
 
 📘 Project Summary
 
