@@ -19,6 +19,7 @@ imdb-movie-rating-analysis/
     ├── revenue_vs_rating.png
     ├── top_directors.png
     └── correlations.png
+```
 ---
 
 
