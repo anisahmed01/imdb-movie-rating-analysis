@@ -74,7 +74,6 @@ Available in the `images/` folder:
 
 ---
 
-
 ## ▶️ How to Run
 
 1. **Clone the repository:**
@@ -94,12 +93,10 @@ Available in the `images/` folder:
 
 4. **Run all cells** to reproduce the analysis.
 
+---
 
-
-
-### 📘 Project Summary
+## 📘 Project Summary
 ```
 This analysis shows how financial attributes, genres, and creative contributors influence IMDb ratings. Through visual exploration and statistical comparisons, it identifies which directors, movie categories, and production patterns are associated with stronger viewer ratings across nearly a century of cinema.
 ```
----
 
