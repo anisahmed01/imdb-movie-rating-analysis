@@ -11,13 +11,13 @@ imdb-movie-rating-analysis/
 ├── notebook.ipynb
 ├── requirements.txt
 ├── data/
-│ └── imdb.csv
+│   └── imdb.csv
 └── images/
-├── Average IMDB Rating Over Years.png
-├── Average IMDB Rating by Genres.png
-├── Revenue in Millions vs IMDB Rating.png
-├── Top 10 Directors by Average IMDB Rating.png
-└── Top 10 Highest Rated Movies.png
+    ├── rating_dist.png
+    ├── budget_vs_rating.png
+    ├── revenue_vs_rating.png
+    ├── top_directors.png
+    └── correlations.png
 
 
 ---
